@@ -1,0 +1,1 @@
+I added Payment Service as a swimlane, as it processes the payment, and returns a success or failure result to the Website. I did not include Email Service as a swimlane as its email actions could be shown in Website.
